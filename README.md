@@ -4,7 +4,7 @@ Hey, I'm Yogesh
 </h1>
 
 <h1 align="center">
-About
+About me
 </h1>
 <p>
 Inquisitive and Self-Motivated Software Engineer at LTIMindtree
