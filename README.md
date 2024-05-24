@@ -1,5 +1,6 @@
-##<pre>                                                                                    Hey, I'm Yogesh</pre>
-
+<h1 align="center">
+Hey, I'm Yogesh
+</h1>
 <!--
 **Yogesh-chiluka/Yogesh-Chiluka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
