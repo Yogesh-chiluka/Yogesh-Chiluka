@@ -6,11 +6,11 @@ Hey, I'm Yogesh
 <h1 align="center">
 About
 </h1>
-<pre>
+<p>
 Inquisitive and Self-Motivated Software Engineer at LTIMindtree
 
 Driven by a passion for innovation and a relentless pursuit of knowledge, I thrive in collaborative environments. I leverage a strong foundation in programming languages (C++, TypeScript, Java, JavaScript) to build robust and user-friendly software solutions. Additionally, I'm expanding my skillset by exploring the MERN stack (MongoDB, Express.js, React.js, Node.js) to create modern and dynamic web applications. Actively exploring emerging technologies like Web3 and Machine Learning/AI to further contribute to the future of tech.
-</pre>
+</p>
 </div>
 <!--
 **Yogesh-chiluka/Yogesh-Chiluka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
