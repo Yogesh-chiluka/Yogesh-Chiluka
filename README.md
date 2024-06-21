@@ -2,4 +2,4 @@
 
 Software engineer at @LTIMindtree 👋
 
-[github-user-profile](https://github-user-profile-six.vercel.app/)
+[github-user-profile](https://github-user-profile-six.vercel.app/){:target="_blank"}
