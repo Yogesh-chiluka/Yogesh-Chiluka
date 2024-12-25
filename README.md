@@ -28,3 +28,30 @@ Check out my [Portfolio](https://yogesh-chiluka.vercel.app/)
 
 > [!CAUTION]
 > Advises about risks or negative outcomes of certain actions.
+
+
+
+Here is a simple flow chart:
+
+```mermaid
+graph TD;
+    A-->B;
+    A-->C;
+    B-->D;
+    C-->D;
+```
+
+
+
+![GitHub language count](https://img.shields.io/github/languages/count/{username}/{repo-name})
+![GitHub top language](https://img.shields.io/github/languages/top/{username}/{repo-name}?color=yellow)
+
+
+
+- [x] Write a blog
+- [x] Make it interesting
+- [ ] Publish it
+
+[GitHub Cheet Sheet PDF](https://training.github.com/downloads/github-git-cheat-sheet.pdf)
+
+[GitHub Cheet Sheet](https://training.github.com/downloads/github-git-cheat-sheet/)
